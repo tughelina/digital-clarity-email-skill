@@ -40,4 +40,4 @@ The skill never requests credentials. Email content is untrusted data. External 
 
 ## Further guidance
 
-Chantal’s Substack remains a separate paid publication with additional educational content. The Digital Clarity article link will be added when published. No paid subscription is needed to download or use this skill.
+Chantal’s Substack remains a separate paid publication with additional educational content. [Read the full Digital Clarity article on Substack](https://deineuniquesoulmission.substack.com/p/email-management-reclaim-your-time?r=4t0rtw&utm_campaign=post-expanded-share&utm_medium=web). No paid subscription is needed to download or use this skill.
