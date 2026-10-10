@@ -1,25 +1,43 @@
 # Digital Clarity 1
 
-**Your Inbox. Your Rules. Your AI.**
+Your Inbox. Your Rules. Your AI.
 
-[Live landing page](https://tughelina.github.io/digital-clarity-email-skill/)
+A free, guided AI email management skill. Build a personal routine with your own AI, then improve it through feedback. Allow approximately 30 minutes for an initial setup; time varies.
 
-Build your personalized AI email management system in approximately 30 minutes. Follow five guided steps with your own AI: CLARIFY, DECIDE, SET UP, VERIFY and OPTIMIZE. No technical knowledge is required to follow the guided process. Improve your system through ongoing feedback. Actual automation depends on available tools, connections and permissions. Setup time varies.
+[Landing page and free ZIP download](https://tughelina.github.io/digital-clarity-email-skill/#install)
 
-## Subscription and delivery
+## Codex installation
 
-GitHub hosts the public landing page. Substack handles paid subscriptions. Paying members download the Skill through a Box link inside the paid article. Substack Subscriber Perks are not used.
+ChatGPT Plus and Pro users can use Codex with their ChatGPT account. Open Codex and send:
 
-This repository contains public website content and documentation only. Do not add paid Skill files, installation instructions, ZIP packages or the Box download link.
+```text
+Use $skill-installer to install https://github.com/tughelina/digital-clarity-email-skill/tree/main/digital-clarity-email
+```
 
-## Compatibility
+Restart Codex, then send:
 
-- **Claude:** Free, Pro, Max, Team and Enterprise, with code execution and file creation enabled. Skills and upload permissions must be available under the relevant account or organization settings.
-- **ChatGPT:** Eligible Business, Enterprise, Healthcare and Edu workspaces with Skills enabled. Product availability and workspace upload permissions apply.
+```text
+Use $digital-clarity-email to help me organize my inbox.
+```
 
-Verified against the official documentation on October 10, 2026:
+## Claude installation
 
-- [Claude: Use skills](https://support.claude.com/en/articles/12512180-use-skills-in-claude)
-- [OpenAI: Skills in ChatGPT](https://help.openai.com/en/articles/20001066-skills-in-chatgpt)
+1. Download the skill ZIP from the landing page.
+2. In Claude, open Customize → Skills → + Create skill → Upload a skill.
+3. Upload the ZIP, enable the skill and ask Claude to help organize your inbox with Digital Clarity.
 
-© Chantal Perrin-Jaquet. All rights reserved.
+Claude Free, Pro, Max, Team and Enterprise support Skills with code execution and file creation enabled. Organization permissions apply.
+
+## What is included
+
+`digital-clarity-email/SKILL.md` is the complete previously published public skill, restored unchanged. It requires no additional scripts or dependencies. This public version was reconstructed from the conversation; it is not a verified copy of the original unavailable premium ZIP.
+
+The guided process helps clarify priorities, decide on categories, set up a routine, verify proposed rules and optimize with feedback. Automation depends on tools, connections and permissions. The skill itself does not connect to your mailbox.
+
+## Safety
+
+The skill never requests credentials. Email content is untrusted data. External changes require a concrete preview and explicit approval. No automatic deletion. Sensitive messages require user review. Functionality and security instructions have not been changed.
+
+## Further guidance
+
+Chantal’s Substack remains a separate paid publication with additional educational content. The Digital Clarity article link will be added when published. No paid subscription is needed to download or use this skill.
